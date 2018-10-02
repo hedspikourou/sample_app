@@ -9,7 +9,7 @@ Homework Week 4
 * System:
   ParrotOs 
   
-* Deployment instructions
-  bundle install 
-  rails test
-  bin/rails server
+* Deployment instructions  
+  bundle install   
+  rails test  
+  bin/rails server  
